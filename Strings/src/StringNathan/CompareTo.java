@@ -1,0 +1,49 @@
+package StringNathan;
+
+public class CompareTo 
+{
+
+	public static void main(String[] args) 
+	{
+		/*Lexicographic Ordering:
+			word1<word2
+			compareTo(): Negative Number
+			word1 would come before word2   */
+
+		String word1 = "ape";
+		String word2 = "zebra";
+		
+		word1.compareTo(word2);
+		System.out.println(word1.compareTo(word2));
+	
+	
+		/*Lexicographic Ordering:
+		word3 > word4
+		compareTo(): Positive Number
+		word3 would come after word4   */
+
+		String word3 = "zebra";
+		String word4 = "ape";
+	
+		word3.compareTo(word4);
+		System.out.println(word3.compareTo(word4));
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+
+}

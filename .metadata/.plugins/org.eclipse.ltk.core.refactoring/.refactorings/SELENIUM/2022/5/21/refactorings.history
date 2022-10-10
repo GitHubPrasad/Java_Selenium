@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;JavaScriptExecutor.JavaScriptUtililty&apos; to &apos;JavaScriptUtil&apos;&#x0D;&#x0A;- Original project: &apos;SELENIUM&apos;&#x0D;&#x0A;- Original element: &apos;JavaScriptExecutor.JavaScriptUtililty&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaScriptExecutor.JavaScriptUtil&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JavaScriptUtililty&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;JavaScriptExecutor{JavaScriptUtililty.java[JavaScriptUtililty" matchStrategy="1" name="JavaScriptUtil" qualified="false" references="true" similarDeclarations="false" stamp="1653068961115" textual="false" version="1.0"/>
+</session>

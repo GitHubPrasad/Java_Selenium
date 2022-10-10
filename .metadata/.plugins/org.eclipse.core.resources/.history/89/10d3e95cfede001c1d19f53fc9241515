@@ -1,0 +1,32 @@
+package StringNathan;
+
+public class IndexOf 
+{
+
+	public static void main(String[] args) 
+	{
+		String word = "bobcat";
+		
+		String find1 = "b";
+		char find2 = 'c';
+		String find3 = "x";
+		
+		//indexOf will only find the first instance
+		System.out.println("The first instance of "+ find1 +" is at index: "+ word.indexOf(find1));
+		System.out.println("The first instance of "+ find2 +" is at index: "+ word.indexOf(find2));
+		
+		System.out.println("The first instance of "+ find3 +" is at index: "+ word.indexOf(find3));
+		//output is -1, means the the item is not in the string
+	
+		String find4 = "cat";
+		String find5 = "bob";
+		String find6 = "nice kitty";
+	
+		System.out.println("The first instance of "+ find4 + " is at index : " + word.indexOf(find4));
+		System.out.println("The first instance of "+ find5 + " is at index : " + word.indexOf(find5));
+		System.out.println("The first instance of "+ find6 + " is at index : " + word.indexOf(find6));
+	
+	
+	}
+
+}

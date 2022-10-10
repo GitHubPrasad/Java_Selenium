@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-12T07:19:57 IST" name="Default suite" finished-at="2022-05-12T07:20:12 IST" duration-ms="15334">
+    <groups>
+    </groups>
+    <test started-at="2022-05-12T07:19:57 IST" name="Default test" finished-at="2022-05-12T07:20:12 IST" duration-ms="15334">
+      <class name="com.Framework.NopCommerce.SignInTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Framework.NopCommerce.SignInTest@2805d709]" started-at="2022-05-12T07:19:51 IST" name="setup" finished-at="2022-05-12T07:19:57 IST" duration-ms="5643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signIn()[pri:0, instance:com.Framework.NopCommerce.SignInTest@2805d709]" started-at="2022-05-12T07:19:57 IST" name="signIn" finished-at="2022-05-12T07:20:05 IST" duration-ms="7914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="signIn()[pri:0, instance:com.Framework.NopCommerce.SignInTest@2805d709]" started-at="2022-05-12T07:20:05 IST" name="signIn" finished-at="2022-05-12T07:20:12 IST" duration-ms="7389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Framework.NopCommerce.SignInTest@2805d709]" started-at="2022-05-12T07:20:12 IST" name="teardown" finished-at="2022-05-12T07:20:13 IST" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Framework.NopCommerce.SignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
